@@ -58,11 +58,11 @@ focused on performance, intelligence, and real-world impact.
 </p>
 <br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <br>
-📊 GitHub Presence
-<br>
+<h3 align="left">GitHub Stats:</h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=robbysaifulrahman&show_icons=true&theme=tokyonight&hide_border=true" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=robbysaifulrahman&theme=tokyonight&hide_border=true" /> 
 </p>
 <br>

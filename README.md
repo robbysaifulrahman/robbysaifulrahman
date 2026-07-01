@@ -48,7 +48,7 @@ or experimenting with servers.
 
 <td width="45%">
 
-<img src="images/studying.png" width="100%">
+<img src="studying.png" width="100%">
 
 </td>
 

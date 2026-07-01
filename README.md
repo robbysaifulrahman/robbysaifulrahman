@@ -1,103 +1,107 @@
-<h1 align="center">Hi 👋, I'm Robby Saiful Rahman</h1>
+<h1 align="center">Hi there! 👋 I'm Robby Saiful Rahman</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=IT+Security+Engineer;Fullstack+Developer;Building+Secure+Systems" />
-</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=robbysaifulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="Robby's Profile Views" /> 
+Software Developer • Web Enthusiast • Linux User • Cybersecurity Learner
 </p>
 
-```diff
-I build secure systems, scalable web apps, and automation tools
-focused on performance, intelligence, and real-world impact.
-```
-```diff
-# About Me
-- 🔐 Implementing basic security practices in web applications (authentication, validation, API protection)
-- 🌐 Building web platforms and dashboards using modern frameworks
-- 🤖 Developing automation tools and integrating external APIs
-- 🧠 Continuously learning backend systems, security concepts, and real-world implementation
-```
-```diff
-🚀 What I'm Working On
-- 🌐 MikailaDigi → Digital platform for web development services and business solutions
-- 📿 Dzikirku → Islamic web application for daily dhikr, reminders, and spiritual tracking
-- 🤝 Peduli Palestina → Donation and awareness platform for humanitarian support
-```
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/robbysaifulrahman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/robbysaifulrahman">
+    <img src="https://img.shields.io/github/followers/robbysaifulrahman?style=for-the-badge">
+  </a>
+  <a href="https://instagram.com/rbysflrhmn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+</p>
+
+<table>
+<tr>
+
+<td width="55%">
+
+## 👨‍💻 About Me
+
+Hi, I'm Robby.
+
+I enjoy building software that solves real-world problems while continuously learning new technologies.
+
+My interests include
+
+- 🌐 Web Development
+- ⚙ Backend Engineering
+- 🐧 Linux
+- ☁ Cloud Infrastructure
+- 🔒 Cybersecurity
+
+When I'm not coding,
+you'll probably find me learning new technologies,
+reading documentation,
+or experimenting with servers.
+
+**Always learning. Always improving.**
+
+</td>
+
+<td width="45%">
+
+<img src="images/studying.png" width="100%">
+
+</td>
+
+</tr>
+</table><br>
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,bash" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,fastapi,laravel,supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,nginx,cloudflare,vscode" />
+</p>
+
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 📊 GitHub Statistics
 
-<h3 align="left">Languages and Tools:</h3>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,js" />
-  </a>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=robbysaifulrahman&theme=github-dark&hide_border=true"/>
 </p>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,express,python" />
-  </a>
+---
+
+<p align="center">
+<i>"Stay curious, keep learning, and enjoy the journey."</i>
 </p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ubuntu,vscode,vercel,netlify,supabase,firebase" />
-  </a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<br>
-<h3 align="left">GitHub Stats:</h3>
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=robbysaifulrahman&theme=tokyonight&hide_border=true" /> 
-</p>
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/robbysaifulrahman" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://instagram.com/rbysflrhmn" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-<a href="https://fb.com/robbysaifulrahman" target="blank">
-    <img src="https://skillicons.dev/icons?i=facebook"/>
-  </a>
-</p>
-<br>
-
-
-
-
-
-
-🧠 Philosophy
-
-Build something useful.
-Secure it properly.
-Scale it without breaking.
-<br><br>
-
-⚡ Signature
-```diff
-while(alive){
-  build();
-  secure();
-  improve();
-}
-
